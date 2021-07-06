@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "axios": "^0.21.1",
+    "call-bind": "^1.0.2",
+    "follow-redirects": "^1.14.1",
+    "function-bind": "^1.1.1",
+    "get-intrinsic": "^1.1.1",
+    "has": "^1.0.3",
+    "has-symbols": "^1.0.2",
+    "nodemailer": "^6.6.2",
+    "object-inspect": "^1.10.3",
+    "qs": "^6.10.1",
+    "side-channel": "^1.0.4"
+  }
+}
