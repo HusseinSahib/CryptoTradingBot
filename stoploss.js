@@ -108,7 +108,7 @@ module.exports.sellorder = async function(Coin,boughtPrice,symbol,stepSize,quant
         return selling;
       }
       /* 
-      Three black cows pattern found
+      Three black/red candles pattern found
       */
       else if(
         (((parseFloat(intervals.data[intervalsNum-3][4])) - (parseFloat(intervals.data[intervalsNum-3][1])))<0)&&
